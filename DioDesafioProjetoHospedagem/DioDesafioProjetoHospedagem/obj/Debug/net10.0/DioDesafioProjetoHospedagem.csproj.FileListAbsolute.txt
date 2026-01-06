@@ -1,0 +1,14 @@
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\bin\Debug\net10.0\DioDesafioProjetoHospedagem.exe
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\bin\Debug\net10.0\DioDesafioProjetoHospedagem.deps.json
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\bin\Debug\net10.0\DioDesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\bin\Debug\net10.0\DioDesafioProjetoHospedagem.dll
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\bin\Debug\net10.0\DioDesafioProjetoHospedagem.pdb
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\obj\Debug\net10.0\DioDesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\obj\Debug\net10.0\DioDesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\obj\Debug\net10.0\DioDesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\obj\Debug\net10.0\DioDesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\obj\Debug\net10.0\DioDesafioProjetoHospedagem.dll
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\obj\Debug\net10.0\refint\DioDesafioProjetoHospedagem.dll
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\obj\Debug\net10.0\DioDesafioProjetoHospedagem.pdb
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\obj\Debug\net10.0\DioDesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\d.jose.de.paula\source\repos\DioDesafioProjetoHospedagem\DioDesafioProjetoHospedagem\obj\Debug\net10.0\ref\DioDesafioProjetoHospedagem.dll
