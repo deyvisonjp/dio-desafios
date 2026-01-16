@@ -1,0 +1,82 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Container central */
+.container {
+  background: #fff;
+  padding: 40px 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+}
+
+/* Título */
+h1 {
+  margin-bottom: 15px;
+  color: #4facfe;
+  font-size: 26px;
+}
+
+/* Texto explicativo */
+p {
+  margin-bottom: 20px;
+  font-size: 15px;
+  color: #555;
+}
+
+/* Input */
+input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 2px solid #4facfe;
+  border-radius: 8px;
+  font-size: 16px;
+  outline: none;
+  text-align: center;
+}
+
+/* Botão */
+button {
+  width: 100%;
+  background: #4facfe;
+  color: #fff;
+  border: none;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #00c6ff;
+}
+
+/* Resultado */
+.resultado {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  background: #f1f9ff;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #4facfe;
+}
